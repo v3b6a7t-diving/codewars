@@ -27,6 +27,7 @@
     "eslint": "6.5.1",
     "eslint-cli": "1.1.1",
     "fs": "0.0.1-security",
+    "nodemon": "^2.0.6",
     "path": "0.12.7",
     "ts-loader": "6.2.0",
     "typescript": "3.6.4"
